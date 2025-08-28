@@ -1,0 +1,18 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 3px solid red;
+    padding-bottom: 50px;
+}
+.table{
+    border: 3px solid rgb(48, 0, 0);
+    width: 800px;
+    
+}
+
+th{
+    border: 3px solid rgb(48, 0, 0);
+
+}
